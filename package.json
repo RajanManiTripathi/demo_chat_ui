@@ -1,0 +1,10 @@
+{
+  "name": "streamlit-ai-chat-assistant",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "start": "python -m streamlit run app.py"
+  },
+  "devDependencies": {}
+}
