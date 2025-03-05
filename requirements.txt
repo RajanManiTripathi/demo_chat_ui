@@ -5,3 +5,6 @@ accelerate
 transformers
 huggingface_hub
 async_generator
+fastapi
+uvicorn
+pydantic
